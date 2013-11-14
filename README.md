@@ -9,7 +9,11 @@ It is an update of the popular Unity.Mvc3 package, updated to target .NET 4.5, M
 Getting started with Unity.Mvc5
 -------------------------------
 
-To get started, just add a call to UnityConfig.RegisterComponents() in the Application_Start method of Global.asax.cs 
+The easiest way to add Unity.Mvc5 to your project is via the NuGet package. You can search for unity.mvc5 using the GUI or type the following into the package manager console in Visual Studio:
+
+> install-package Unity.Mvc5
+
+Once installed, just add a call to UnityConfig.RegisterComponents() in the Application_Start method of Global.asax.cs 
 and the MVC framework will then use the Unity.Mvc5 DependencyResolver to resolve your components.
 
 e.g.
