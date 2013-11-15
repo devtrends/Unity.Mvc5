@@ -1,7 +1,7 @@
 <package>
   <metadata>
     <id>Unity.Mvc5</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <authors>Paul Hiles</authors>
     <owners>FeedbackHound</owners>
     <projectUrl>https://github.com/feedbackhound/Unity.Mvc5</projectUrl>
