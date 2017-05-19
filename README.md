@@ -36,4 +36,4 @@ registered with the HierarchicalLifetimeManager to ensure that they are properly
 More Information
 ----------------
 
-You can find out more about what has changed in this release by visiting the <a href="http://www.devtrends.co.uk/blog/taking-ownership-of-unity.mvc-and-unity.webapi">DevTrends Blog</a>.
+You can find out more about what has changed in this release by visiting the <a href="https://www.devtrends.co.uk/blog/taking-ownership-of-unity.mvc-and-unity.webapi">DevTrends Blog</a>.
