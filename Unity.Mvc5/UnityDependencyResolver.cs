@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
-using Microsoft.Practices.Unity;
 
 namespace Unity.Mvc5
 {
