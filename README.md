@@ -3,7 +3,7 @@ Unity.Mvc5
 
 Unity.Mvc5 is a library that allows simple Integration of Microsoft's Unity IoC container with ASP.NET MVC 5.
 
-It is an update of the popular Unity.Mvc3 package, updated to target .NET 4.5, MVC5 and Unity 3.0.
+It is an update of the popular Unity.Mvc3 package, updated to target .NET 4.5, MVC5 and Unity 5.x.
 
 
 Getting started with Unity.Mvc5
