@@ -1,5 +1,5 @@
 ﻿using System.Web.Mvc;
-using Microsoft.Practices.Unity;
+using Unity;
 using Unity.Mvc5;
 
 namespace $rootnamespace$
